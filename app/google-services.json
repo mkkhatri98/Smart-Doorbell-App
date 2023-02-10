@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "374703759995",
+    "firebase_url": "https://smart-door-lock-6536f-default-rtdb.firebaseio.com",
+    "project_id": "smart-door-lock-6536f",
+    "storage_bucket": "smart-door-lock-6536f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374703759995:android:961ea33c6860c5381db8de",
+        "android_client_info": {
+          "package_name": "com.example.sdl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374703759995-ual5k5vphhud5de85mo64ieutptgp8si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3rpQdt6R_BpvsKVNKx8ci9aw5pynz_78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374703759995-ual5k5vphhud5de85mo64ieutptgp8si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374703759995:android:6301bfce497c34511db8de",
+        "android_client_info": {
+          "package_name": "com.example.smartdoorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374703759995-ual5k5vphhud5de85mo64ieutptgp8si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3rpQdt6R_BpvsKVNKx8ci9aw5pynz_78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374703759995-ual5k5vphhud5de85mo64ieutptgp8si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374703759995:android:b5dccf99bb53d0fd1db8de",
+        "android_client_info": {
+          "package_name": "com.example.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374703759995-ual5k5vphhud5de85mo64ieutptgp8si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3rpQdt6R_BpvsKVNKx8ci9aw5pynz_78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374703759995-ual5k5vphhud5de85mo64ieutptgp8si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374703759995:android:4b45d2cae31905711db8de",
+        "android_client_info": {
+          "package_name": "com.iot.smartdoorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374703759995-ual5k5vphhud5de85mo64ieutptgp8si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3rpQdt6R_BpvsKVNKx8ci9aw5pynz_78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374703759995-ual5k5vphhud5de85mo64ieutptgp8si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
